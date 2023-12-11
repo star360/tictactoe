@@ -9,5 +9,5 @@ snarkvm build
 
 To execute this Aleo program, run:
 ```bash
-snarkvm run main
+snarkvm run hello
 ```
